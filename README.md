@@ -30,7 +30,7 @@ Outside of data, I'm an avid reader and lifelong learner. I love asking question
 
 ## 🌱 Currently Learning 
 
--  R, with plans to expand my skills into SPSS, Advanced Python, and statistical analysis.
+-  R Programmming, with plans to expand my skills into SPSS, Advanced Python, and statistical analysis.
 
 ## 🛠️ Technical Skillset
 

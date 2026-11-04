@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a curious, research-minded aspiring data analyst who enjoys exploring data, uncovering patterns, and connecting insights to real-world problems. I'm particularly interested in healthcare, business, and technology.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Currently building my skills in Excel, SQL, and Power BI through hands-on projects.
 
-When I'm not working with data, I enjoy reading. I love the "aha!" moment when data reveals something new and useful.
+Outside of data, I'm an avid reader and lifelong learner. I love asking questions, exploring ideas, and making sense of how things work.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -45,7 +45,7 @@ When I'm not working with data, I enjoy reading. I love the "aha!" moment when d
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,&theme=dark&perline=5" alt="Skill Icons" />
 </p>
 

@@ -14,9 +14,7 @@
 
 ## 🚀 About Me 
 I'm a curious, research-minded data analyst who enjoys exploring data, uncovering patterns, and connecting insights to real-world problems. I'm particularly interested in healthcare, business, and technology.
-
 Currently building my skills in Excel, SQL, and Power BI through hands-on projects.
-
 Outside of data, I'm an avid reader and lifelong learner. I love asking questions, exploring ideas, and making sense of how things work.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -48,7 +46,7 @@ Outside of data, I'm an avid reader and lifelong learner. I love asking question
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,&theme=dark&perline=5" alt="Skill Icons" />
 </p>
 
-#### Programming & Automation
+#### Programming 
 <p>
   <img src="https://skillicons.dev/icons?i=py,&theme=dark&perline=5" alt="Skill Icons" />
 </p>

@@ -46,7 +46,7 @@ When I'm not working with data, I enjoy reading. I love the "aha!" moment when d
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,aws,gcp,git,selenium,php,html,css&theme=dark&perline=5" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,git,&theme=dark&perline=5" alt="Skill Icons" />
 </p>
 
 #### Programming & Automation

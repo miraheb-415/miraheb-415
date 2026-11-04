@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a curious, research-minded aspiring data analyst who enjoys exploring data, uncovering patterns, and connecting insights to real-world problems. I'm particularly interested in healthcare, business, and technology.
+I'm a curious, research-minded data analyst who enjoys exploring data, uncovering patterns, and connecting insights to real-world problems. I'm particularly interested in healthcare, business, and technology.
 
 Currently building my skills in Excel, SQL, and Power BI through hands-on projects.
 

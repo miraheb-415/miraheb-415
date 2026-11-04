@@ -24,7 +24,7 @@ Outside of data, I'm an avid reader and lifelong learner. I love asking question
       
 ## 🔭 What I'm Currently Working On 
 
-<!-- - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+<!-- Later Learning - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.] -->
 
@@ -41,19 +41,21 @@ Outside of data, I'm an avid reader and lifelong learner. I love asking question
 <p>
    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Query-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+ <!-- Later Learning <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> -->
+ 
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,&theme=dark&perline=5" alt="Skill Icons" />
 </p>
 
-#### Programming 
-<p>
+#### Programming <!-- Later Learning -->
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=py,&theme=dark&perline=5" alt="Skill Icons" />
-</p>
+</p> -->
 
-<!-- #### Business Intelligence & Analytics
+<!--     Later Learning #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">

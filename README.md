@@ -45,6 +45,10 @@ When I'm not working with data, I enjoy reading. I love the "aha!" moment when d
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,aws,gcp,git,selenium,php,html,css&theme=dark&perline=5" alt="Skill Icons" />
+</p>
+
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">

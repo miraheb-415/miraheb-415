@@ -1,4 +1,4 @@
-## Hi there, I'm Miraheb 👋
+## Hi there, I'm Mira 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->

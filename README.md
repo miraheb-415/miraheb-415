@@ -24,9 +24,9 @@ Outside of data, I'm an avid reader and lifelong learner. I love asking question
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+<!-- - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.] -->
 
 ## 🌱 Currently Learning 
 
@@ -53,10 +53,10 @@ Outside of data, I'm an avid reader and lifelong learner. I love asking question
   <img src="https://skillicons.dev/icons?i=py,&theme=dark&perline=5" alt="Skill Icons" />
 </p>
 
-#### Business Intelligence & Analytics
+<!-- #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+</p> -->
